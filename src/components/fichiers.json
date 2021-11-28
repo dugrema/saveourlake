@@ -1,0 +1,51 @@
+{
+    "fichiers": [
+      {
+        "fuuid": "a-0-b-1",
+        "nom": "Robert Bateman Introduction.pdf", 
+        "titre": {"en": "Robert Bateman Introduction", "fr": ""},
+        "description": {"en": "(English, PDF)", "fr": "(Anglais, PDF)"}
+      },
+      {
+        "fuuid": "a-0-b-2",
+        "nom": "Save Our Lake Presentation.pptx",
+        "titre": {"en": "Save Our Lake Presentation", "fr": "Presentation Sauvons Notre Lac"},
+        "description": {
+          "fr": "Presentation bilingue qui a fait partie de la rencontre du conseil de ville de Russell le 2 decembre 2019 (Bilingue, Powerpoint)", 
+          "en": "Bilingual presentation that formed part of the Dec. 2, 2019 Russell Twp Council meeting (Bilingual, Powerpoint)"
+        }
+      },
+      {
+        "fuuid": "a-0-b-3",
+        "nom": "saveourlake-withsupport_en.doc",
+        "titre": {"en": "Save Our Lake (English)", "fr": ""},
+        "description": {"en": "(English, Word)", "fr": "(Anglais, Word)"}
+      },
+      {
+        "fuuid": "a-0-b-4",
+        "nom": "saveourlake-withsupport_fr.docx",
+        "titre": {"en": "Save Our Lake (French)", "fr": ""},
+        "description": {"en": "(French, Word)", "fr": "(Francais, Word)"}
+      }
+    ],
+    "collections": [
+      {
+        "cuuid": "c-0-a-1",
+        "nom": "Sounds from the Lake",
+        "titre": {"en": "Sounds from the Lake", "fr": "Sons provenant du lac"},
+        "fichiers": [
+          {"fuuid": "a-001", "nom": "chorusandwoodfrogs202.MP3"},
+          {"fuuid": "a-002", "nom": "chorusfrogs13052805.MP3"},
+          {"fuuid": "a-003", "nom": "frogs201.MP3"},
+          {"fuuid": "a-004", "nom": "frogs903.MP3"},
+          {"fuuid": "a-005", "nom": "frogs13052807.MP3"},
+          {"fuuid": "a-006", "nom": "frogsandrain305.MP3"},
+          {"fuuid": "a-007", "nom": "geeseatlake13052808.MP3"},
+          {"fuuid": "a-008", "nom": "songsparrow13052602.MP3"},
+          {"fuuid": "a-009", "nom": "songsparrow13052803.MP3"},
+          {"fuuid": "a-010", "nom": "songsparrow13052804.MP3"},
+          {"fuuid": "a-011", "nom": "songsparrow13052806.MP3"}
+        ]
+      }
+    ]
+  }

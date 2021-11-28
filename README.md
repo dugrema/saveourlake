@@ -1,3 +1,3 @@
-# Save Our Lake
+# React-Static - Basic Template
 
-Code for https://saveourlake.millegrilles.com.
+To use this template, run `react-static create` and use the `basic` template.
